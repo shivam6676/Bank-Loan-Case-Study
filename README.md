@@ -1,5 +1,5 @@
 # Bank-Loan-Case-Study
-Case study on bank loans
+<h1 style="text-align: center">Case study on bank loans</h1>
 
 <img src="https://github.com/Striker2569/Bank-Loan-Case-Study/blob/main/pictures/bank_loan_page-0001.jpg" alt="BANK">
 <img src="https://github.com/Striker2569/Bank-Loan-Case-Study/blob/main/pictures/bank_loan_page-0002.jpg" alt="BANK">
